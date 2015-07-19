@@ -2,7 +2,7 @@
 $(call inherit-product, vendor/axxion/config/gsm.mk)
 
 # Bootanimation
-TARGET_BOOTANIMATION_SIZE := 960x640
+TARGET_BOOTANIMATION_SIZE := 1080
 
 # Inherit Omni product configuration
 $(call inherit-product, vendor/axxion/config/common.mk)
